@@ -1,4 +1,4 @@
-# Phonon-DOS-based-on-MD-trajectory
+READ IN RAW
 Normal mode density from molecular dynamics velocity trajectory
 The DOS is obtained by summing up the Fourier transform of the atomic velocity.
 Users will have to provide a velocity trajectory file (I use CP2K, so the default velocity unit is bohr/au_time), and a mass file that contains the atomic mass.
