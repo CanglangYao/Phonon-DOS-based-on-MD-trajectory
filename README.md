@@ -20,3 +20,5 @@ Usage: python dos.py your_trajectory
 A DoS file will be generated, you can plot it with gnuplot
 Usage: python thermo.py
 Vibrational energy will be printed
+
+Caution: use python3., or there will be error arised from "/" calculation.
